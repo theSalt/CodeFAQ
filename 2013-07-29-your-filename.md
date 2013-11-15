@@ -10,7 +10,7 @@ published: false
 
 #   haha inert some words
 **BBBBB**   
-![](/http://img0.bdstatic.com/img/image/55677c6a7efce1b9d16e04fc076f1deb48f8c546418.jpg)
+![图片](/http://img0.bdstatic.com/img/image/55677c6a7efce1b9d16e04fc076f1deb48f8c546418.jpg)
 
 sdf
 
