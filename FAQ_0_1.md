@@ -8,6 +8,15 @@ code是一个在线的代码托管和社交编程平##
 
 台。开发者在code平台可以：
 
+```c
+main(){
+int a =5;
+char
+#fffff
+//e3eeee
+}
+```
+
 ## h2
 ### h3
 **BBBB**   _iiiiiii_   
